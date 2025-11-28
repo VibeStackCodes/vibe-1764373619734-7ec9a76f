@@ -1,0 +1,7 @@
+.kanban-board {
+  @apply grid grid-cols-3 gap-4;
+}
+
+.task-card {
+  @apply p-4 border rounded-lg shadow;
+}
